@@ -21,8 +21,6 @@
 
 </div>
 
-
-
 <h3 align="center">🧮 My Baekjoon Stats 🧮</h3>
 
 <div align="center">

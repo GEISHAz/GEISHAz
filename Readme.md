@@ -1,5 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=400&text=Hello%20!&desc=Hello%20capsule%20render)
-
+<img src="https://capsule-render.vercel.app/api?type=waving&color=AFAFF8&height=150&section=header" />
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GEISHAz&layout=compact)](https://github.com/GEISHAz/github-readme-stats)
 

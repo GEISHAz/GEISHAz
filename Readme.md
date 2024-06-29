@@ -1,7 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=160&section=header&text=Hi!%20I'm%20Minho!&fontAlign=50&fontAlignY=70&fontSize=90&fontColor=000000) 
 
-<h3 align="center">☀️ 저는 ☀️</h3>
-
 <div align="center">
 👨‍💻코딩이 즐거운 개발자
 <br>

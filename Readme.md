@@ -19,7 +19,7 @@
 
 </div>
 
-<h3 align="center">🧮 My Baekjoon Stats 🧮</h3>
+<h3 align="center">🧮 My Algorithm Stats 🧮</h3>
 
 <div align="center">
 
